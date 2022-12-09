@@ -1,0 +1,107 @@
+[
+    {
+		"id": 1,
+		"name": "Striped Men Round Neck Yellow T-Shirt",
+		"image":"https://rukminim2.flixcart.com/image/800/960/k4vmxzk0/t-shirt/k/x/m/xl-16-panel-mustard-uzee-original-imafnzyyxzwdcn9m.jpeg?q=50",
+		"price": 177,
+		"originalPrice": 1999,
+        "discount": "91",
+		"brand": "UZee",
+        "inStock": true,
+		"size": "M",
+		"gender": "Men",
+		"quantity": 1
+	},
+	{
+		"id": 2,
+		"name": "Striped Men Polo Neck White, Blue, Green T-Shirt",
+		"image":"https://rukminim2.flixcart.com/image/800/960/kzegk280/t-shirt/r/o/t/s-t285hs-as7whdngr-eyebogler-original-imagbfygwtubscjw.jpeg?q=50",
+		"price": 349,
+		"originalPrice": 1299,
+        "discount": "73",
+		"brand": "Eyebogler",
+        "inStock": true,
+		"size": "S",
+		"gender": "Men",
+		"quantity": 1
+	},
+
+	{
+		"id": 3,
+		"name": "Unstitched Cotton Polyester Blend Shirt Fabric Printed, Color Black ",
+		"image":"https://rukminim2.flixcart.com/image/800/960/ky90scw0/fabric/0/v/c/no-2-35-m-unstitched-na-romeo-trijal-fab-original-imagajykxpybzgjh.jpeg?q=50",
+		"price": 174,
+		"originalPrice": 899,
+        "discount": "80",
+		"brand": "Trijal Fab",
+        "inStock": false,
+		"size": "L",
+		"gender": "Men",
+		"quantity": 1
+	},
+	{
+		"id": 4,
+		"name": "Women Solid Denim Straight Kurta",
+		"image":"https://rukminim2.flixcart.com/image/800/960/kxnl6kw0/kurta/a/y/q/m-vi-denim-blue-vihani-original-imaga2hm834qfsfh.jpeg?q=50",
+		"price": 219,
+		"originalPrice": 2599,
+        "discount": "91",
+		"brand": "VIHANI",
+        "inStock": true,
+		"size": "M",
+		"gender": "Women",
+		"quantity": 1
+	},
+	{
+		"id": 5,
+		"name": "Women Kurta and Palazzo Set Art Silk",
+		"image":"https://rukminim2.flixcart.com/image/800/960/kn3i1zk0/ethnic-set/p/r/d/s-5048-v-tradition-original-imagfupfp8dhtaay.jpeg?q=50",
+		"price": 191,
+		"originalPrice": 1299,
+        "discount": "85",
+		"brand": "v tradition",
+        "inStock": false,
+		"size": "S",
+		"gender": "Women",
+		"quantity": 1
+	},
+	{
+		"id": 6,
+		"name": "Solid Men Black Track Pants",
+		"image":"https://rukminim2.flixcart.com/image/800/960/ko7idu80hlty2aw/track-pant/v/j/d/-original-imagfbr5dnuxnfjd.jpeg?q=50",
+		"price": 299,
+		"originalPrice": 1399,
+        "discount": "78",
+		"brand": "Kizaar",
+        "inStock": true,
+		"size": "M",
+		"gender": "Men",
+		"quantity": 1
+	},
+	{
+		"id": 7,
+		"name": "Solid Men Mandarin Collar Brown, Black T-Shirt",
+		"image":"https://rukminim2.flixcart.com/image/800/960/kyrlifk0/t-shirt/2/a/v/xxl-tbrblhenful-d37-tripr-original-imagax9ucbwhf7wn.jpeg?q=50",
+		"price": 249,
+		"originalPrice": 1999,
+        "discount": "87",
+		"brand": "TRIPR",
+        "inStock": true,
+		"size": "L",
+		"gender": "Men",
+		"quantity": 1
+	},
+	{
+		"id": 8,
+		"name": "Casual Regular Sleeves Solid Women Black Top",
+		"image":"https://rukminim2.flixcart.com/image/800/960/klfhk7k0/top/0/5/z/l-136-black-aahwan-original-imagyk6f5ehuw9rz.jpeg?q=50",
+		"price": 324,
+		"originalPrice": 1999,
+        "discount": "85",
+		"brand": "Aahwan",
+        "inStock": true,
+		"size": "S",
+		"gender": "Women",
+		"quantity": 1
+	}
+]

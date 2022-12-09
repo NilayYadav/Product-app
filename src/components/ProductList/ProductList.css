@@ -1,0 +1,8 @@
+.list-container{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 0.7rem;
+    grid-area: product;
+    margin: 1.5rem 1rem;
+    width: fit-content;
+}

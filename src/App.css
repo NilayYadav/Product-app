@@ -1,0 +1,21 @@
+.page-layout{
+    font-family: 'Times New Roman', Times, serif;
+    display: grid;
+    grid-template-columns: 0.9fr 4.1fr;
+    grid-template-areas:
+      "filter product product"
+      "filter product product"
+      "filter product product";
+}
+
+.header{
+  width: 100%;
+  padding: 1.2rem;
+  background-color: rgb(58, 60, 199);
+  position: sticky;
+  top: 0;
+  left: 0;
+  font-size: 1.5rem;
+  color: #fff;
+  font-weight: bold;
+}
